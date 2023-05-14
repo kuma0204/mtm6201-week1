@@ -1,0 +1,39 @@
+h1{
+    background-color:darksalmon;
+}
+body{
+    background-color: bisque;
+}
+img{
+    width: 100%;
+    height: auto;
+    max-width: 150px;
+}
+.selfphoto{
+    float: left;
+    margin: 3px;
+}
+.wrapper{
+    margin: 50px;
+}
+p{
+    text-align: justify;
+    /* float: left; */
+    padding: 5px;
+;
+}
+.text-wrap{
+    overflow: hidden;
+}
+dl{
+    background-color:darksalmon;
+}
+dt{
+    font-weight: bold;
+    font-size: 1.5rem;
+    padding: 5px;
+}
+dd{
+    margin-left: 0;
+    padding: 5px;
+}
