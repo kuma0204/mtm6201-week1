@@ -5,28 +5,25 @@ body{
     background-color: bisque;
 }
 img{
-    width: 100%;
+    /* width: 100%; */
     height: auto;
     max-width: 150px;
-}
-.selfphoto{
     float: left;
-    margin: 3px;
+    margin: 5px;
+
 }
 .wrapper{
-    margin: 50px;
+    margin: 30px;
 }
 p{
-    text-align: justify;
-    /* float: left; */
     padding: 5px;
-;
 }
 .text-wrap{
-    overflow: hidden;
+    width: 700px;
 }
 dl{
     background-color:darksalmon;
+   
 }
 dt{
     font-weight: bold;
