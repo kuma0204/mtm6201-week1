@@ -4,26 +4,26 @@ h1{
 body{
     background-color: bisque;
 }
+/* made the image float left so the text wrapps around it */
 img{
-    /* width: 100%; */
     height: auto;
     max-width: 150px;
     float: left;
     margin: 5px;
-
 }
 .wrapper{
     margin: 30px;
 }
 p{
     padding: 5px;
+    text-align: justify;
 }
+/* adds max width so it fits the wrapper */
 .text-wrap{
-    width: 700px;
+    width: fit-content;
 }
 dl{
     background-color:darksalmon;
-   
 }
 dt{
     font-weight: bold;
